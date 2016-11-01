@@ -1,2 +1,6 @@
 asdfghjklzxcvbnm
+<<<<<<< HEAD
 qwertyuioplkjhgfd
+=======
+12345678910
+>>>>>>> feature/deveop
